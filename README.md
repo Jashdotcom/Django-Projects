@@ -1,5 +1,5 @@
 # 🚀 Django Projects :
-This repository contains multiple Django projects built for learning and practice.
+This repository contains multiple Django projects.
 
 ## 📂 Projects Included
 
