@@ -3,12 +3,12 @@ This repository contains multiple Django projects.
 
 ## 📂 Projects Included
 
-### 🔐 AuthApp
+### AuthApp
 - User login & logout
 - Invalid credentials handling
 - Django authentication system
 
-### 🧮 Word Counter
+### Word Counter
 - Counts words from user input
 - Simple Django form handling
 
