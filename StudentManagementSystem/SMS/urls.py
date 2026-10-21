@@ -23,4 +23,10 @@ urlpatterns = [
     path('register/', views.register_view, name='register'),
     path('login/', views.login_view, name='login'),
     path('logout/', views.logout_view, name='logout'),
+    path('student/', views.student_list, name='student_list'),
+    path('students/add/', views.add_student, name='add_student'),
+
+    # path('students/<int:student_id>/edit/',
+    # views.edit_student,
+    # name='edit_student'),
 ]
